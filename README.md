@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/Princerudh">Princerudh</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -58,7 +58,7 @@ Click WA logo to Join Support Group 👇
 Click PrinceRudhV2 logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://i.imgur.com/aAGjt7z.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://i.imgur.com/aAGjt7z.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
