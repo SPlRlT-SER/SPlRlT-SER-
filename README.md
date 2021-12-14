@@ -119,11 +119,9 @@ By establishing the PrinceRudh, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) |  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) | [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) 
-----|----|----
-[Princerudh](https://github.com/Princerudh)  | [Princerudh](https://github.com/Princerudh) | [Princerudh](https://github.com/Princerudh)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
+  [![SPlRlT](https://i.imgur.com/aAGjt7z.jpg) 
+
+[SPlRlT](https://github.com/SPlRlT-SER)
     
 
 
