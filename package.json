@@ -1,5 +1,5 @@
 {
-  "name": "PrinceRudh",
+  "name": "SPlRlT",
   "version": "3.0.0",
   "description": "PrinceRudh whatsapp bot- version of Whatsasena by Yusuf usta.",
   "main": "./PrinceRudh/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrinceRudh/PrinceRudh.git"
+    "url": "git+https://github.com/SPlRlT-SER/SPlRlT-SER-.git"
   },
   "keywords": [
     "whatsapp",
