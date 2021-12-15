@@ -88,7 +88,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Princerudh/PrinceRudh
+$ git clone https://github.com/SPlRlT-SER/splrlt-ser-
 $ cd PrinceRudh
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -98,8 +98,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Princerudh/PrinceRudh
-$ cd PrinceRudh
+$ git clone https://github.com/SPlRlT-SER/splrlt-ser-
+$ cd splrlt-ser-
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,7 +112,7 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, PrinceRudh executives do not accept responsibility.
+Absolutely, splrlt-ser- executives do not accept responsibility.
 By establishing the PrinceRudh, you are deemed to have accepted these responsibilities.
 ```
 
