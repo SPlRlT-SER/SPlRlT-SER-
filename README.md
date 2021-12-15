@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> WELCOME TO SPIRIT WA BOT
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+splrlt-ser-+WA+Bot+repo;Created+by+splrlt;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
