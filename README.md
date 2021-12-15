@@ -12,7 +12,7 @@
 <a href="#"><img title="splrlt" src="https://img.shields.io/badge/PrinceRudh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Princerudh"><img title="Author" src="https://img.shields.io/badge/Author-Princerudh/PrinceRudh?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/splrlt"><img title="Author" src="https://img.shields.io/badge/Author-Princerudh/PrinceRudh?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -119,8 +119,7 @@ By establishing the PrinceRudh, you are deemed to have accepted these responsibi
   <div align="center">
  SPlRlT
 
-    
-
+   
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
