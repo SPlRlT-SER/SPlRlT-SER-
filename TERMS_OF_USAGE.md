@@ -1,4 +1,4 @@
-# **PrinceRudh** TERMS OF USAGE
+# **splrlt-ser-** TERMS OF USAGE
 
 Last Updated: **GMT-9 4/10/2021**
 
@@ -21,4 +21,4 @@ Please let us know what you think of the Service, these Terms and, in general, *
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at wa.me/919645139960 
+Questions or comments about the Service may be directed to us at wa.me/18052196558 
