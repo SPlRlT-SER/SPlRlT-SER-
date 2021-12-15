@@ -1,22 +1,22 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+PrinceRudh+WA+Bot+repo;Created+by+PrinceRudh;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+splrlt-ser-+WA+Bot+repo;Created+by+splrlt;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="PrinceRudhV2.jpg" alt="JPG" width="250" height="200"/>
+<img src="https://i.imgur.com/aAGjt7z.jpg" alt="JPG" width="250" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="PrinceRudh" src="https://img.shields.io/badge/PrinceRudh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="splrlt" src="https://img.shields.io/badge/PrinceRudh-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Princerudh"><img title="Author" src="https://img.shields.io/badge/Author-Princerudh/PrinceRudh?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Princerudh">Princerudh</a> to make it public
+Project created by <a href="https://github.com/splrlt">splrlt</a> to make it public
     <br>
        | © |
         Reserved |
@@ -27,11 +27,11 @@ Project created by <a href="https://github.com/Princerudh">Princerudh</a> to mak
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/princerudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://www.instagram.com/splrlt_ser/ " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<h4 align="center">Support Video  👇:</h4>
 <p align="center">
-<a href="https://youtube.com/c/PrinceRudh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/Princerudh">Princerudh</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
 ## 
@@ -58,7 +58,7 @@ Click WA logo to Join Support Group 👇
 Click PrinceRudhV2 logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP" target="blank"><img align="center" src="PrinceRudh.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://i.imgur.com/aAGjt7z.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -88,8 +88,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Princerudh/PrinceRudh
-$ cd PrinceRudh
+$ git clone https://github.com/SPlRlT-SER/splrlt-ser-
+$ cd splrlt-ser-
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -98,8 +98,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Princerudh/PrinceRudh
-$ cd PrinceRudh
+$ git clone https://github.com/SPlRlT-SER/splrlt-ser-
+$ cd splrlt-ser-
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,16 +114,11 @@ Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, PrinceRudh executives do not accept responsibility.
 By establishing the PrinceRudh, you are deemed to have accepted these responsibilities.
-```
-
+`
 ## Developers
   <div align="center">
-    
-  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) |  [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) | [![Princerudh](https://github.com/Princerudh.png?size=100)](https://github.com/Princerudh) 
-----|----|----
-[Princerudh](https://github.com/Princerudh)  | [Princerudh](https://github.com/Princerudh) | [Princerudh](https://github.com/Princerudh)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
-  </div>
+ SPlRlT
+
     
 
 
@@ -131,13 +126,4 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
-
-
-
-
-
-
-
-
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered tradema
