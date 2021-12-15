@@ -1,5 +1,5 @@
 /* Copyright (C) 2020  Yusuf Usta.
-re codded by Princerudh
+re codded by splrlt-ser-
 */
 
 const { Sequelize } = require('sequelize');
