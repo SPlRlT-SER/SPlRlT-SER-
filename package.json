@@ -1,7 +1,7 @@
 {
-  "name": "SPlRlT",
+  "name": "splrlt-ser-",
   "version": "3.0.0",
-  "description": "PrinceRudh whatsapp bot- version of Whatsasena by Yusuf usta.",
+  "description": "splrlt-ser- whatsapp bot- version of Whatsasena by Yusuf usta.",
   "main": "./PrinceRudh/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -21,9 +21,9 @@
   "developer": "PrinceRudh / @PrinceRudh",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/PrinceRudh/PrinceRudh/issues"
+    "url": "https://github.com/SPlRlT-SER/splrlt-ser-/issues"
   },
-  "homepage": "https://github.comPrinceRudh/PrinceRudh#readme",
+  "homepage": "https://github.com/SPlRlT-SER/splrlt-ser-#readme",
   "dependencies": {
     "raganork-bot": "1.4.2",
     "sharp": "0.29.2"
